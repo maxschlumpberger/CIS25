@@ -1,0 +1,28 @@
+Account created.: $0 | Balance: $0
+Deposit succesful.: $10000 | Balance: $10000
+Purchase succesful.: $35.99 | Balance: $9964.01
+Purchase succesful.: $22.99 | Balance: $9941.02
+Account created.: $0 | Balance: $0
+Deposit succesful.: $10000 | Balance: $10000
+Purchase succesful.: $35.99 | Balance: $9964.01
+Purchase succesful.: $22.99 | Balance: $9941.02
+Account created.: $0 | Balance: $0
+Deposit succesful.: $10000 | Balance: $10000
+Purchase succesful.: $35.99 | Balance: $9964.01
+Purchase succesful.: $22.99 | Balance: $9941.02
+Account creation.: $0 | Description: Initial balance. | Balance: $0
+Deposit successful.: $10000 | Description: Monthly Paycheck | Balance: $10000
+Purchase successful.: $35.99 | Description: You have purchasedNovel | Balance: $9964.01
+Purchase successful.: $22.99 | Description: You have purchasedChicken Alfredo | Balance: $9941.02
+Account creation.: $0 | Description: Initial balance. | Balance: $0
+Deposit successful.: $10000 | Description: Monthly Paycheck | Balance: $10000
+Purchase successful.: $35.99 | Description: You have purchased Novel | Balance: $9964.01
+Purchase successful.: $22.99 | Description: You have purchased Chicken Alfredo | Balance: $9941.02
+Account creation.: $0 | Description: Initial balance. | Balance: $0
+Deposit successful.: $10000 | Description: Monthly Paycheck | Balance: $10000
+Purchase successful.: $35.99 | Description: You have purchased Novel | Balance: $9964.01
+Purchase successful.: $22.99 | Description: You have purchased Chicken Alfredo | Balance: $9941.02
+Account creation.: $0 | Description: Initial balance. | Balance: $0
+Deposit successful.: $10000 | Description: Monthly Paycheck | Balance: $10000
+Purchase successful.: $35.99 | Description: You have purchased Novel | Balance: $9964.01
+Purchase successful.: $22.99 | Description: You have purchased Chicken Alfredo | Balance: $9941.02
