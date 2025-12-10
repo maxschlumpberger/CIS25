@@ -1,0 +1,4 @@
+Account creation.: $0 | Description: Initial balance. | Balance: $0
+Deposit successful.: $10000 | Description: Monthly Paycheck | Balance: $10000
+Purchase successful.: $35.99 | Description: You have purchased Novel | Balance: $9964.01
+Purchase successful.: $22.99 | Description: You have purchased Chicken Alfredo | Balance: $9941.02
